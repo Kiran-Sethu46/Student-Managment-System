@@ -16,3 +16,10 @@
 #define MAX_student_Address 300
 #define File_Header_Size sizeof(sFileHeader)
 
+typedef struct 
+{
+    int yyy;
+    int mm;
+    int dd;
+
+};
